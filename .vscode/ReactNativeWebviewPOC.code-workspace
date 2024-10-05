@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": ".."
+    },
+    {
+      "name": "mobile",
+      "path": "../mobile"
+    },
+    {
+      "name": "tests",
+      "path": "../web-app"
+    }
+  ]
+}
