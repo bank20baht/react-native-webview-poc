@@ -9,7 +9,7 @@
       "path": "../mobile"
     },
     {
-      "name": "tests",
+      "name": "web-app",
       "path": "../web-app"
     }
   ]
